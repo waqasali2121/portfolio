@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'Project One Title',
     description: 'A brief but compelling description of your project. Talk about the problem it solves and the value it provides.',
-    image: '/project-placeholder-1.png', // Recommended size: 1200x800
+    image: '/project-placeholder-1.svg', // Recommended size: 1200x800
     tags: ['Next.js', 'TypeScript', 'Tailwind CSS', 'PostgreSQL'],
     liveUrl: '#',
     githubUrl: '#',
@@ -15,7 +15,7 @@ const projects = [
   {
     title: 'Project Two Title',
     description: 'Showcase another great project. Highlight the key technologies and your specific role in its development.',
-    image: '/project-placeholder-2.png',
+    image: '/project-placeholder-2.svg',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
     liveUrl: '#',
     githubUrl: '#',
@@ -23,7 +23,7 @@ const projects = [
   {
     title: 'Project Three Title',
     description: 'This could be a cybersecurity tool, a mobile app, or a complex web application. Make it interesting.',
-    image: '/project-placeholder-3.png',
+    image: '/project-placeholder-3.svg',
     tags: ['Python', 'Django', 'Docker', 'AWS'],
     liveUrl: '#',
     githubUrl: '#',

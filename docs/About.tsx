@@ -11,7 +11,7 @@ const About = () => {
           <div className="md:w-1/3">
             <div className="relative w-64 h-64 mx-auto rounded-full overflow-hidden shadow-lg border-4 border-cyan-400">
               <Image
-                src="/placeholder-profile.jpg" // Replace with your professional headshot
+                src="/placeholder-profile.svg" // Replace with your professional headshot
                 alt="Waqas Ali"
                 layout="fill"
                 objectFit="cover"
